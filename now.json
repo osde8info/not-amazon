@@ -1,5 +1,4 @@
 {
-"version":"0.0.7",
-"name":"zeit-node-express",
-"start": "node ."
+"version":"1",
+"name":"zeit-node-express"
 }
