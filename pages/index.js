@@ -14,22 +14,18 @@ export default function Home() {
           Welcome to <a href="https://www.not-amazon.ca/">not amazon</a>
         </h1>
 
-        <p className={styles.description}>
-          <code className={styles.code}>pages/index.js</code>
-        </p>
-
         <div className={styles.grid}>
           <a href="https://www.not-amazon.ca/" className={styles.card}>
             <h3>not amazon</h3>
           </a>
 
-          <a href="https://www.not-amazon.ca/" className={styles.card}>
-            <h3>not amazon</h3>
+          <a href="https://not-amazon-toronto.pory.app/" className={styles.card}>
+            <h3>not amazon toronto</h3>
           </a>
 
           <a
-            href="https://www.not-amazon.ca/" className={styles.card}>
-            <h3>not amazon</h3>
+            href="https://not-amazon-vancouver.pory.app/" className={styles.card}>
+            <h3>not amazon vancouver</h3>
           </a>
 
           <a
