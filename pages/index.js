@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://www.not-amazon.ca/">not amazon</a>
+          not amazon CANADA
         </h1>
 
         <div className={styles.grid}>
@@ -33,6 +33,39 @@ export default function Home() {
             <h3>not amazon</h3>
           </a>
         </div>
+        <h1 className={styles.title}>
+          not amazon UK
+        </h1>
+        <div className={styles.grid}>
+          <a href="https://www.not-amazon.ca/" className={styles.card}>
+            <h3>not amazon edengreens</h3>
+          </a>
+
+          <a href="https://not-amazon-toronto.pory.app/" className={styles.card}>
+            <h3>not amazon jam packed preserves</h3>
+          </a>
+
+          <a
+            href="https://not-amazon-vancouver.pory.app/" className={styles.card}>
+            <h3>not amazon loxwood mead works</h3>
+          </a>
+
+          <a
+            href="https://www.not-amazon.ca/" className={styles.card}>
+            <h3>not amazon our eco home</h3>
+          </a>
+
+          <a
+            href="https://www.not-amazon.ca/" className={styles.card}>
+            <h3>not amazon slones hot chocolate</h3>
+          </a>
+
+          <a
+            href="https://www.not-amazon.ca/" className={styles.card}>
+            <h3>not amazon susie eats the seasons</h3>
+          </a>
+        </div>
+
       </main>
 
       <footer className={styles.footer}>
