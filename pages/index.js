@@ -5,14 +5,18 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>not amazon</title>
+        <title>not amazon shopping</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          not amazon CANADA
+          not amazon shopping
         </h1>
+
+        <h2 className={styles.title}>
+          not amazon CANADA
+        </h2>
 
         <div className={styles.grid}>
           <a href="https://www.not-amazon.ca/" className={styles.card}>
@@ -28,9 +32,9 @@ export default function Home() {
           </a>
         </div>
 
-        <h1 className={styles.title}>
+        <h2 className={styles.title}>
           not amazon UK
-        </h1>
+        </h2>
 
         <div className={styles.grid}>
           <a href="https://www.edengreens.co.uk" className={styles.card}>
