@@ -29,6 +29,20 @@ export default function Home() {
         </div>
 
         <h2 className={styles.title}>
+          not amazon USA (CA)
+        </h2>
+
+        <div className={styles.grid}>
+          <a href="https://www.greenapplebooks.com/">
+            <h4>not amazon green apple books</h4>
+          </a>
+
+          <a href="https://www.vervecoffee.com/">
+            <h3>not amazon verve coffee</h4>
+          </a>
+        </div>
+
+        <h2 className={styles.title}>
           not amazon ENGLAND (Kent)
         </h2>
 
