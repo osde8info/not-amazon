@@ -38,7 +38,7 @@ export default function Home() {
           </a>
 
           <a href="https://www.vervecoffee.com/">
-            <h3>not amazon verve coffee</h4>
+            <h4>not amazon verve coffee</h4>
           </a>
         </div>
 
