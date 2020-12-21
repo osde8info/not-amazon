@@ -32,7 +32,7 @@ export default function Home() {
           not amazon USA (CA)
         </h2>
 
-        <div className={styles.grid}>
+        <div>
           <a href="https://www.greenapplebooks.com/">
             <h4>not amazon green apple books</h4>
           </a>
