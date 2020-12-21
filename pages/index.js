@@ -16,15 +16,15 @@ export default function Home() {
 
         <div>
           <a href="https://www.not-amazon.ca/">
-            <h3>not amazon</h3>
+            <h4>not amazon</h4>
           </a>
 
           <a href="https://not-amazon-toronto.pory.app/">
-            <h3>not amazon toronto</h3>
+            <h4>not amazon toronto</h4>
           </a>
 
           <a href="https://not-amazon-vancouver.pory.app/">
-            <h3>not amazon vancouver</h3>
+            <h4>not amazon vancouver</h4>
           </a>
         </div>
 
@@ -48,11 +48,11 @@ export default function Home() {
 
         <div>
           <a href="https://www.beeenergyhoney.com">
-            <h3>not amazon bee energy honey</h3>
+            <h4>not amazon bee energy honey</h4>
           </a>
 
           <a href="https://foodsmart.uk/">
-            <h3>not amazon food smart</h3>
+            <h4>not amazon food smart</h4>
           </a>
         </div>
 
@@ -62,27 +62,27 @@ export default function Home() {
 
         <div>
           <a href="https://www.edengreens.co.uk">
-            <h3>not amazon edengreens</h3>
+            <h4>not amazon edengreens</h4>
           </a>
 
           <a href="https://www.jampackedpreserves.co.uk">
-            <h3>not amazon jam packed preserves</h3>
+            <h4>not amazon jam packed preserves</h4>
           </a>
 
           <a href="https://www.loxwoodmeadworks.com/">
-            <h3>not amazon loxwood mead works</h3>
+            <h4>not amazon loxwood mead works</h4>
           </a>
 
           <a href="https://ourecohome.co.uk/">
-            <h3>not amazon our eco home</h3>
+            <h4>not amazon our eco home</h4>
           </a>
 
           <a href="https://www.sloaneshotchocolate.com/">
-            <h3>not amazon slones hot chocolate</h3>
+            <h4>not amazon slones hot chocolate</h4>
           </a>
 
           <a href="https://www.susieeatstheseasons.com/">
-            <h3>not amazon susie eats the seasons</h3>
+            <h4>not amazon susie eats the seasons</h4>
           </a>
         </div>
 
@@ -90,29 +90,29 @@ export default function Home() {
           not amazon SCOTLAND
         </h2>
 
-        <div className={styles.grid}>
-          <a href="https://twitter.com/EdinBookshop" className={styles.card}>
-            <h3>not amazon edin bookshop</h3>
+        <div>
+          <a href="https://twitter.com/EdinBookshop">
+            <h4>not amazon edin bookshop</h4>
           </a>
 
-          <a href="https://twitter.com/GoldenHareBooks" className={styles.card}>
-            <h3>not amazon golden hare books</h3>
+          <a href="https://twitter.com/GoldenHareBooks">
+            <h4>not amazon golden hare books</h4>
           </a>
 
-          <a href="https://twitter.com/Lighthousebks" className={styles.card}>
-            <h3>not amazon light house books</h3>
+          <a href="https://twitter.com/Lighthousebks">
+            <h4>not amazon light house books</h4>
           </a>
 
-          <a href="https://twitter.com/PortyBooks" className={styles.card}>
-            <h3>not amazon porty books</h3>
+          <a href="https://twitter.com/PortyBooks">
+            <h4>not amazon porty books</h4>
           </a>
 
-          <a href="https://twitter.com/ToppingsEdin" className={styles.card}>
-            <h3>not amazon toppings</h3>
+          <a href="https://twitter.com/ToppingsEdin">
+            <h4>not amazon toppings</h4>
           </a>
 
-          <a href="https://twitter.com/tweetwronger" className={styles.card}>
-            <h3>not amazon typewronger</h3>
+          <a href="https://twitter.com/tweetwronger">
+            <h4>not amazon typewronger</h4>
           </a>
         </div>
 
