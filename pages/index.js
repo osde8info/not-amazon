@@ -14,16 +14,16 @@ export default function Home() {
           not amazon CANADA
         </h2>
 
-        <div className={styles.grid}>
-          <a href="https://www.not-amazon.ca/" className={styles.card}>
+        <div>
+          <a href="https://www.not-amazon.ca/">
             <h3>not amazon</h3>
           </a>
 
-          <a href="https://not-amazon-toronto.pory.app/" className={styles.card}>
+          <a href="https://not-amazon-toronto.pory.app/">
             <h3>not amazon toronto</h3>
           </a>
 
-          <a href="https://not-amazon-vancouver.pory.app/" className={styles.card}>
+          <a href="https://not-amazon-vancouver.pory.app/">
             <h3>not amazon vancouver</h3>
           </a>
         </div>
@@ -46,12 +46,12 @@ export default function Home() {
           not amazon ENGLAND (Kent)
         </h2>
 
-        <div className={styles.grid}>
-          <a href="https://www.beeenergyhoney.com" className={styles.card}>
+        <div>
+          <a href="https://www.beeenergyhoney.com">
             <h3>not amazon bee energy honey</h3>
           </a>
 
-          <a href="https://foodsmart.uk/" className={styles.card}>
+          <a href="https://foodsmart.uk/">
             <h3>not amazon food smart</h3>
           </a>
         </div>
@@ -60,28 +60,28 @@ export default function Home() {
           not amazon ENGLAND (Surrey)
         </h2>
 
-        <div className={styles.grid}>
-          <a href="https://www.edengreens.co.uk" className={styles.card}>
+        <div>
+          <a href="https://www.edengreens.co.uk">
             <h3>not amazon edengreens</h3>
           </a>
 
-          <a href="https://www.jampackedpreserves.co.uk" className={styles.card}>
+          <a href="https://www.jampackedpreserves.co.uk">
             <h3>not amazon jam packed preserves</h3>
           </a>
 
-          <a href="https://www.loxwoodmeadworks.com/" className={styles.card}>
+          <a href="https://www.loxwoodmeadworks.com/">
             <h3>not amazon loxwood mead works</h3>
           </a>
 
-          <a href="https://ourecohome.co.uk/" className={styles.card}>
+          <a href="https://ourecohome.co.uk/">
             <h3>not amazon our eco home</h3>
           </a>
 
-          <a href="https://www.sloaneshotchocolate.com/" className={styles.card}>
+          <a href="https://www.sloaneshotchocolate.com/">
             <h3>not amazon slones hot chocolate</h3>
           </a>
 
-          <a href="https://www.susieeatstheseasons.com/" className={styles.card}>
+          <a href="https://www.susieeatstheseasons.com/">
             <h3>not amazon susie eats the seasons</h3>
           </a>
         </div>
